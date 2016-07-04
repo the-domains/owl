@@ -1,0 +1,28 @@
+name: owl
+favicon: null
+layout_spectrum: 0.6047868677414954
+typography_spectrum: 0.3903585826046765
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.183044561650604
+  lightness: 0.39853761065751314
+  saturation: 0.5291770049370825
+  rhythmicContrast: 0.13136416487395763
+purpose: []
