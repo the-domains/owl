@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Owl Sky City]]></title>
+        <description><![CDATA[Owl Sky City]]></description>
+        <link>https://thegrid.ai/owl/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 04 Jul 2016 20:09:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/owl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Owl Sky City Open]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1124ca9-5bbf-4a77-80ef-8f80988eb67a.png">]]></description>
+            <link>https://thegrid.ai/owl/owl-sky-city-open/index.html</link>
+            <guid isPermaLink="false">10547a86-2b06-4489-8240-c66c56cce049</guid>
+            <pubDate>Mon, 04 Jul 2016 20:09:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
